@@ -1,0 +1,4 @@
+name: ekotabs
+version: '${project.version}'
+main: org.imeko.ekotabs.Ekotabs
+api-version: '1.20'

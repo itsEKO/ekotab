@@ -1,0 +1,4 @@
+name: ekotabs
+version: '2.0-SNAPSHOT'
+main: org.imeko.ekotabs.Ekotabs
+api-version: '1.20'
